@@ -22,3 +22,5 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dat1n&layout=compact&theme=vision-friendly-dark) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dat1n&theme=dark&background=000000) 
 
 
+![BMO Dancing](https://raw.githubusercontent.com/user-attachments/assets/main/98ff2566-2dcf-49be-9155-440a497db36f)
+

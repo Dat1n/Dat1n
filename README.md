@@ -1,4 +1,4 @@
-# Hi, everyone! I'm Haris Naszim.
+# Hi, I'm Haris Naszim.
 
 ### :hammer_and_wrench: Languages and Tools :**Technologies and Tools:**  
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;

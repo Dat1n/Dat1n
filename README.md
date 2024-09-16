@@ -19,8 +19,4 @@
 
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dat1n&layout=compact&theme=vision-friendly-dark) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dat1n&theme=dark&background=000000) 
-
-
-![BMO Dancing](https://raw.githubusercontent.com/user-attachments/assets/main/98ff2566-2dcf-49be-9155-440a497db36f)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dat1n&layout=compact&theme=vision-friendly-dark) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dat1n&theme=dark&background=000000)  <img src="https://github.com/user-attachments/assets/710adc92-9124-4ebd-9e77-0ce1911b99ff" alt="BMO Dancing" width="200" height="200" />
